@@ -1,0 +1,33 @@
+body {
+	background-color: #4DAB80;
+	margin: 70px;
+	text-align: center;
+	font-family: 'Abril Fatface', cursive;
+}
+h1{
+	font-size: 60px;
+	background-color: #FAFAFA;
+	opacity: .8;
+	border-radius: 10px;
+}
+input{
+	width: 35%;
+	height: 30px;
+	display: inline-block;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+button{
+	height: 30px;
+	width: 100px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 23px;
+	font-style: oblique;
+}
+p{
+	font-size: 60px;
+	background-color: #FAFAFA;
+	opacity: .8;
+	border-radius: 10px;
+	opacity: .8;
+}
